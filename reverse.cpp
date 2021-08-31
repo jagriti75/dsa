@@ -1,3 +1,5 @@
+//reverse the integer array
+
 #include<bits/stdc++.h>
 using namespace std;
 
