@@ -1,3 +1,5 @@
+//print the reverse of the string
+
 #include<bits/stdc++.h>
 using namespace std;
 
@@ -11,7 +13,7 @@ void rev_string(char str[]){
 }
 
 int main(){
-    char str[] = "geeksforgeeks";
+    char str[] = "hello";
     rev_string(str);
     cout<<str;
 }
