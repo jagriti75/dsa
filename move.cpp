@@ -1,3 +1,5 @@
+//move all the negative elements to one side of array
+
 #include<bits/stdc++.h>
 using namespace std;
 
