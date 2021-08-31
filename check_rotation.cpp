@@ -1,3 +1,5 @@
+//check if the given string is the rotation of string
+
 #include<bits/stdc++.h>
 using namespace std;
 
