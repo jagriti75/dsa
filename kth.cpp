@@ -1,3 +1,6 @@
+//print kth max and min element
+
+
 #include<bits/stdc++.h>
 using namespace std;
 
